@@ -9,6 +9,7 @@ class Ideone
 	{
 		Scanner sc=new Scanner(System.in);
 		String n=sc.nextLine();
+		n=n+".";
 		System.out.print(n);
 	}
 }
