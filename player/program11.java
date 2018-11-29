@@ -8,8 +8,8 @@ class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		Scanner sc=new Scanner(System.in);
-		String a="sunday";
-		String b="saturday";
+		String a="saturday";
+		String b="sunday";
 		String n=sc.nextLine();
 		if(n.equals(a)||n.equals(b))
 		{
