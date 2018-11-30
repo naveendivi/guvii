@@ -19,7 +19,7 @@ class Ideone
 		Collections.rotate(al,k);
 		for(int d:al)
 		{
-			System.out.println(d);
+			System.out.println(d+" ");
 		}
 		}
 		
